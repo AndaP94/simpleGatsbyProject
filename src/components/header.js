@@ -1,6 +1,6 @@
 import React from "react"
 
-export default props => (<nav>
+export default () => (<nav>
     <h4>My frist site</h4>
     <ul>
         <li><a href="/">Start</a></li>
